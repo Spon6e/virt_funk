@@ -16,6 +16,7 @@ private:
         count = 1;
     }
     ~strCount() {
+        cout << "Удаляем объектик " << str << endl;
         delete[]str;
     }
 };
