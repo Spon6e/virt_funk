@@ -36,13 +36,16 @@ public:
         ptp = s.ptp;
         ptp->count += 1;
     }
-    void operator =(String& s) {
+    String& operator =(String& s) {
+        if (this == &s)
+            return *this;
         if (ptp->count == 1)
             delete ptp;
         else 
             ptp->count -= 1;
         ptp = s.ptp;
         ptp->count += 1;
+        return *this;
     }
     void display() {
         cout << ptp->str;
@@ -73,6 +76,10 @@ int main()
     String s4(t);
     s3 = s4;
     s3.display();
+    s1.display();
+    s4 = s3 = s1;
+    s3.display();
+    s4.display();
     s1.display();
     _getch();
 }
