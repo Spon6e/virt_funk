@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\\u0412\u0438\u0440\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0435 \u0444\u0443\u043D\u043A\u0446\u0438\u0438\\Dlina_friend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE9870E-C579-4FCB-9BDC-6F76611C4739}|Dlina_friend.vcxproj|C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\\u0412\u0438\u0440\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0435 \u0444\u0443\u043D\u043A\u0446\u0438\u0438\\Dlina_friend\\Dlina_friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE9870E-C579-4FCB-9BDC-6F76611C4739}|Dlina_friend.vcxproj|solutionrelative:Dlina_friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dlina_friend.cpp",
+              "DocumentMoniker": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\\u0412\u0438\u0440\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0435 \u0444\u0443\u043D\u043A\u0446\u0438\u0438\\Dlina_friend\\Dlina_friend.cpp",
+              "RelativeDocumentMoniker": "Dlina_friend.cpp",
+              "ToolTip": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\\u0412\u0438\u0440\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0435 \u0444\u0443\u043D\u043A\u0446\u0438\u0438\\Dlina_friend\\Dlina_friend.cpp",
+              "RelativeToolTip": "Dlina_friend.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T22:49:08.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
